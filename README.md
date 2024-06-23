@@ -1,5 +1,3 @@
-# Hostel-Management
-
 # Hostel Management System
 
 ## Project Overview
